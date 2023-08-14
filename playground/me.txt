@@ -1,0 +1,3 @@
+Name: Sanika Hipparagi
+Skills: Html, CSS, JS, ReactJS, Nodejs, Expressjs, MYSQL, Mongodb
+Email: hippsanika18@gmail.com
